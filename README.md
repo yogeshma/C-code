@@ -1,2 +1,2 @@
 # C-code
-For Reference Old Style Program
+Sharing some code samples written while teaching programming to my son
